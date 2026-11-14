@@ -32,9 +32,16 @@ For the four-view mushroom, the front, left, back and right views were uploaded 
 - Thin parts and small details (straps, coins, text) may merge or disappear.
 - These are textured meshes with triangles only, no quads, rigging or UV layout meant for hand editing.
 
-## Preview online
+## Open and convert them online
 
-Drop any file into the free [GLB viewer](https://3dloom.com/glb-viewer) to inspect it in your browser, or convert it with [GLB to STL](https://3dloom.com/convert/glb-to-stl) for printing.
+These free browser tools from 3DLoom work on the files here. Nothing is uploaded; the files stay on your computer.
+
+- [GLB viewer](https://3dloom.com/glb-viewer): inspect the mesh, textures and triangle count.
+- [GLB to STL](https://3dloom.com/convert/glb-to-stl): a closed mesh for slicers.
+- [GLB to 3MF](https://3dloom.com/convert/glb-to-3mf): keeps part colors for multi-color printers such as Bambu Lab and Prusa.
+- [GLB to OBJ](https://3dloom.com/convert/glb-to-obj) and [GLB to FBX](https://3dloom.com/convert/glb-to-fbx): for Blender, Maya, Unity and other tools.
+
+If you print in color, the [3MF viewer](https://3dloom.com/3mf-viewer) shows painted colors, [Split 3MF by color](https://3dloom.com/split-3mf) gives one part per filament, and [3MF to OBJ](https://3dloom.com/convert/3mf-to-obj) keeps the painted colors as materials.
 
 ## License
 
